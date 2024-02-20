@@ -3,9 +3,9 @@ title = "Im Schatten der Bühne"
 date = "2024-02-20"
 draft = false
 pinned = false
-description = "Das Berner Stadttheater ist nicht nur ein Kulturhaus, in dem der Applaus täglich den Saal erfüllt, sondern auch ein Ort der Teamarbeit und vielem Aufwand. Ein Gang bis tief in die Keller der Bühne Bern, ermöglicht einen Einblick in die Vielfalt und Schönheit der kulturellen Veranstaltungen. Hier sieht man genaue Prozesse und Eindrücke in die verschiedenen Produktionen, die zusammen ein Theaterstück ergeben."
+description = ""
 +++
-
+Das Berner Stadttheater ist nicht nur ein Kulturhaus, in dem der Applaus täglich den Saal erfüllt, sondern auch ein Ort der Teamarbeit und vielem Aufwand. Ein Gang bis tief in die Keller der Bühne Bern, ermöglicht einen Einblick in die Vielfalt und Schönheit der kulturellen Veranstaltungen. Hier sieht man genaue Prozesse und Eindrücke in die verschiedenen Produktionen, die zusammen ein Theaterstück ergeben.
 
 
 
