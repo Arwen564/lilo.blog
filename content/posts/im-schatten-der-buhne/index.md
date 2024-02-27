@@ -1,5 +1,5 @@
 +++
-title = "Im Schatten der Bühne"
+title = "Im Schatten des Applauses"
 date = "2024-02-20"
 draft = false
 pinned = false
