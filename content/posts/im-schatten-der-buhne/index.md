@@ -3,13 +3,14 @@ title = "Im Schatten des Applauses"
 date = "2024-02-20"
 draft = false
 pinned = false
-description = "Direkt unter der Bühne, währenddessen ein Theaterstück läuft (Bild: Arwen Eisenegger)\n\n\n\n\n"
+image = "bild1-1-.png"
+description = "\n\n\n\n"
 +++
 {{</lead>}}Das Berner Stadttheater ist nicht nur ein Kulturhaus, in dem der Applaus täglich den Saal erfüllt, sondern auch ein Ort der Teamarbeit und grossem Aufwand. Ein Gang bis tief in die Keller der Bühne Bern, ermöglicht einen Einblick in die Vielfalt und Schönheit der kulturellen Veranstaltungen. Hier sieht man genaue Prozesse und Eindrücke in die verschiedenen Produktionen, die zusammen ein Theater-stück ergeben. 
 
 Arwen Eisenegger, Yara Daumüller  {{</lead>}}
 
-![](bild1-1-.png "Das Berner Stadttheater von vorne mit der aktuellen Giraffenstatue (Bild https://de.foursquare.com/v/stadttheater-bern/4bf80db7b182c9b637bb765a?openPhotoId=6485b86626ea3236f26e2b62 )")
+![Das Berner Stadttheater von vorne mit der aktuellen Giraffenstatue (Bild https://de.foursquare.com/v/stadttheater-bern/4bf80db7b182c9b637bb765a?openPhotoId=6485b86626ea3236f26e2b62 )](bild1-1-.png "Das Berner Stadttheater von vorne mit der aktuellen Giraffenstatue (Bild https://de.foursquare.com/v/stadttheater-bern/4bf80db7b182c9b637bb765a?openPhotoId=6485b86626ea3236f26e2b62 )")
 
 Mitten in der Altstadt steht sie, die Bühne Bern. Von weitem erkennt man einen Farbfleck. Die Giraffe, die vor den Eingangstoren wacht. Es scheint fast so, als würde sie die abendlichen Zuschauer*innen bereits erwarten. Hinter ihr befinden sich die schweren, alten Eingangstüren aus dunklem Holz die beim Eintreten des Kulturhauses mächtig wirken. Kaum hat man das Gebäude betreten beginnt eine Reise tief ins Innere des Theaters und der Kunst dahinter.
 
@@ -24,7 +25,7 @@ Wenn man nun den Raum wieder verlässt und durch das Treppenhaus hinunter geht, 
 
 Weiter entlang dem Gang geht man an vielen Kleiderständern voller bunter Kostüme vorbei. Wieder auf der linken Seite ist der Vorbereitungsraum für die Tänzer\*innen. Auf allen Seiten stehen Tische aneinander und darüber sind Spiegel mit Lichter, wie man sie aus Hollywood Filmen kennt. Die Lichter geben dem Raum ein warmes Gefühl und je länger man dort drinnen bleibt, desto mehr fühlt man sich selbst wie ein Teil der Show. Auch hier werden die Tänzer\*innen nicht nur geschminkt, sondern auch bekleidet, wie man an den Kostümen im hinteren Teil des Raumes sieht.
 
-![](bild2.jpg "Direkt unter der Bühne, währenddessen ein Theaterstück läuft (Bild: Arwen Eisenegger)")
+![Direkt unter der Bühne, währenddessen ein Theaterstück läuft (Bild: Arwen Eisenegger)](bild2.jpg "Direkt unter der Bühne, währenddessen ein Theaterstück läuft (Bild: Arwen Eisenegger)")
 
 **Kunst verborgen hinter Türen**
 Wenn man diesem Gang nun noch ein paar Schritte weiter folgt, gelangt man an einen Ort, der tief fasziniert. Die Requisitenwerkstatt. Um ein Theater so lebhaft wie möglich zu gestalten, braucht man eines sehr dringend: Requisiten. Überall stehen hier Dinge herum, die später irgendeine Rolle in einem Theaterstück übernehmen werden. Zuerst kann man den Raum wegen zu vielen Sinneseindrücken nicht richtig einschätzen und man ist verloren im Chaos. Es steht viel Unfertiges herum, welches zum Teil zu nichts zu gehören scheint. Jedoch ergibt alles immer mehr Sinn, wenn man nur genau hinsieht. Das grüne Plastikstück auf dem Arbeitstisch wird später zu einem Pflanzenblatt der Monstera, die ein paar Meter weiter weg steht. Das eben beschriebene Gefühl geht schnell vorbei, denn wenn man genau hinsieht, hat alles hier eine Aufgabe. 
